@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BlueShoelaces/tUnit"
+    "url": "git+https://github.com/BlueShoelaces/alya-twine"
   },
-  "author": "jingle",
+  "author": "Nicole Arruda",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BlueShoelaces/tUnit/issues"
+    "url": "https://github.com/BlueShoelaces/tUnit/alya-twine"
   },
-  "homepage": "https://github.com/BlueShoelaces/tUnit#readme"
+  "homepage": "https://github.com/BlueShoelaces/alya-twine#readme"
 }
